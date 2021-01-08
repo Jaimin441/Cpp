@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1561290905 source:c:\users\home\desktop\codehere\c++\d_oct\main.cpp
+	<iostream>
+	<cmath>
+

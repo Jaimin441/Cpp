@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1558958588 source:c:\users\home\desktop\codehere\c++\erase_remove\main.cpp
+	<iostream>
+	<vector>
+	<algorithm>
+

@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1559650252 source:c:\users\home\desktop\codehere\c++\vowel(count)\main.cpp
+	<iostream>
+	<string.h>
+

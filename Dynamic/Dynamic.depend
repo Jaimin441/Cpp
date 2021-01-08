@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1563931215 source:c:\users\home\desktop\new folder (2)\dynamic\main.cpp
+	<iostream>
+	<string.h>
+

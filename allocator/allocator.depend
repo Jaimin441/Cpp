@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1559130118 source:c:\users\home\desktop\codehere\c++\allocator\main.cpp
+	<iostream>
+	<memory>
+

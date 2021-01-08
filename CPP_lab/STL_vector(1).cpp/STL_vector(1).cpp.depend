@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1570420570 source:c:\users\home\desktop\codehere\cpp_lab\stl_vector(1).cpp\main.cpp
+	<iostream>
+	<vector>
+	<algorithm>
+

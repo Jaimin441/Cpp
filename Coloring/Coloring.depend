@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1559619720 source:c:\users\home\desktop\codehere\c++\coloring\main.cpp
+	<iostream>
+	<cstdlib>
+	<windows.h>
+
